@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 시크릿 (절대 커밋 금지)
+.env
+.env.*
+*.key
+*.pem
+service-account-*.json
+secrets/
+
+# 로컬 데이터
+data/raw/
+data/processed/
+*.parquet
+*.csv
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Flutter (P6 대비)
+**/.dart_tool/
+**/build/
