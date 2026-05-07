@@ -3,7 +3,7 @@ name = "investment-assistant"
 version = "0.1.0"
 description = "Personal investment analyst assistant"
 authors = [{ name = "이대중" }]
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 readme = "README.md"
 license = { text = "MIT" }
 
