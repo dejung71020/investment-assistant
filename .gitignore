@@ -238,3 +238,6 @@ data/processed/
 # Flutter (P6 대비)
 **/.dart_tool/
 **/build/
+
+# Claude
+claude.md
